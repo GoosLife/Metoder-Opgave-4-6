@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metoder Opgave 4-6", "Metoder Opgave 4-6\Metoder Opgave 4-6.csproj", "{8B4CB643-C44E-4B6C-A2E2-CF3CCD23CABD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B4CB643-C44E-4B6C-A2E2-CF3CCD23CABD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B4CB643-C44E-4B6C-A2E2-CF3CCD23CABD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B4CB643-C44E-4B6C-A2E2-CF3CCD23CABD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B4CB643-C44E-4B6C-A2E2-CF3CCD23CABD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D9C4F0A-BE6F-41DE-B6C7-AF7FF42338F6}
+	EndGlobalSection
+EndGlobal
